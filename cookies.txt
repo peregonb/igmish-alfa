@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+alpha-demo.krownthemes.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+alpha-demo.krownthemes.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	043868a0925e8095662a1fb95fe62140
+alpha-demo.krownthemes.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_16f78513f0342a674554b54a8d4e752c	8f0f76806edcb6e3f3dbdcdb06a797cb%7C%7C1500466011%7C%7C1500462411%7C%7C916939f41a71667c0ed496beea246edc
+

@@ -1,0 +1,179 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 17 Jul 2017 14:58:32 at http://alpha-demo.krownthemes.com/ +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv
+(winhttrack -qwC2%P%h%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "ru, en, *" http://alpha-demo.krownthemes.com/ -O1 "C:\Мои Web Сайты\alfappppp" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:58:32	Warning: 	Note: due to alpha-demo.krownthemes.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+15:00:38	Error: 	"Method Not Allowed" (405) at link alpha-demo.krownthemes.com/xmlrpc.php (from alpha-demo.krownthemes.com/)
+15:11:06	Warning: 	Retry after error -4 (Incorrect length (65148 Bytes, 103333 expected)) at link 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/uploads/2015/11/4-1-960x535.jpg (from alpha-demo.krownthemes.com/)
+15:11:19	Error: 	"Not Found" (404) at link 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/themes/images/blank.gif (from 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/themes/alpha/style.css?ver=4.7.5)
+15:11:19	Error: 	"Not Found" (404) at link 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/themes/alpha/bigplay.svg (from 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/themes/alpha/style.css?ver=4.7.5)
+15:11:19	Error: 	"Not Found" (404) at link 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/themes/alpha/bigplay.png (from 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/themes/alpha/style.css?ver=4.7.5)
+15:11:19	Error: 	"Not Found" (404) at link 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/themes/alpha/background.png (from 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/themes/alpha/style.css?ver=4.7.5)
+15:11:19	Error: 	"Not Found" (404) at link 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/themes/alpha/loading.gif (from 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/themes/alpha/style.css?ver=4.7.5)
+15:11:19	Error: 	"Not Found" (404) at link 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/themes/alpha/controls.svg (from 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/themes/alpha/style.css?ver=4.7.5)
+15:11:19	Error: 	"Not Found" (404) at link 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/themes/alpha/controls.png (from 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/themes/alpha/style.css?ver=4.7.5)
+15:11:19	Error: 	"Not Found" (404) at link 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/themes/alpha/skipback.png (from 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/themes/alpha/style.css?ver=4.7.5)
+15:11:19	Error: 	"Not Found" (404) at link 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/themes/alpha/images/mediaelement/loading-goodwork_x2.png (from 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/themes/alpha/style.css?ver=4.7.5)
+15:11:19	Warning: 	Moved Permanently for alpha-demo.krownthemes.com/?p=6
+15:11:19	Warning: 	File has moved from alpha-demo.krownthemes.com/?p=6 to http://alpha-demo.krownthemes.com/about-us/
+15:11:19	Warning: 	Moved Permanently for alpha-demo.krownthemes.com/?p=275
+15:11:19	Warning: 	File has moved from alpha-demo.krownthemes.com/?p=275 to http://alpha-demo.krownthemes.com/studio/
+15:12:28	Warning: 	Retry after error -4 (Incorrect length (65111 Bytes, 84650 expected)) at link 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/uploads/2016/02/post3-840x508.jpg (from alpha-demo.krownthemes.com/journal/)
+15:13:14	Warning: 	Moved Permanently for alpha-demo.krownthemes.com/?p=347
+15:13:14	Warning: 	File has moved from alpha-demo.krownthemes.com/?p=347 to http://alpha-demo.krownthemes.com/classic-blog/
+15:13:14	Warning: 	Moved Permanently for alpha-demo.krownthemes.com/?p=72
+15:13:14	Warning: 	File has moved from alpha-demo.krownthemes.com/?p=72 to http://alpha-demo.krownthemes.com/contact-us/
+15:13:14	Warning: 	Moved Permanently for alpha-demo.krownthemes.com/?p=80
+15:13:14	Warning: 	File has moved from alpha-demo.krownthemes.com/?p=80 to http://alpha-demo.krownthemes.com/elements/
+15:13:14	Warning: 	Retry after error -4 (Incorrect length (65851 Bytes, 118800 expected)) at link 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/uploads/2015/11/photo-1444069788560-6ae1deb4c0d4.jpg (from alpha-demo.krownthemes.com/elements/)
+15:13:15	Warning: 	Retry after error -4 (Incorrect length (122454 Bytes, 179216 expected)) at link 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/uploads/2015/11/sin_51.jpg (from alpha-demo.krownthemes.com/elements/)
+15:13:19	Warning: 	Retry after error -4 (Incorrect length (122967 Bytes, 166292 expected)) at link 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/uploads/2015/11/sin_4.jpg (from alpha-demo.krownthemes.com/elements/)
+15:13:23	Warning: 	Retry after error -4 (Incorrect length (66275 Bytes, 116414 expected)) at link 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/uploads/2015/11/alif51-426x426.jpg (from alpha-demo.krownthemes.com/elements/)
+15:13:23	Warning: 	Retry after error -4 (Incorrect length (122608 Bytes, 197718 expected)) at link 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/uploads/2015/11/alif31.jpg (from alpha-demo.krownthemes.com/elements/)
+15:13:25	Warning: 	Retry after error -4 (Incorrect length (350059 Bytes, 388946 expected)) at link 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/uploads/2015/11/alif21.jpg (from alpha-demo.krownthemes.com/elements/)
+15:13:26	Warning: 	Retry after error -4 (Incorrect length (196626 Bytes, 464401 expected)) at link 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/uploads/2015/11/alif12.jpg (from alpha-demo.krownthemes.com/elements/)
+15:13:27	Warning: 	Moved Permanently for alpha-demo.krownthemes.com/?p=947
+15:13:27	Warning: 	File has moved from alpha-demo.krownthemes.com/?p=947 to http://alpha-demo.krownthemes.com/homepage-idea/
+15:16:50	Warning: 	Moved Permanently for alpha-demo.krownthemes.com/?p=946
+15:16:50	Warning: 	File has moved from alpha-demo.krownthemes.com/?p=946 to http://alpha-demo.krownthemes.com/shop-slider/
+15:19:03	Error: 	"Not Found" (404) at link alpha-demo.krownthemes.com/portfolio/lapka/feed/ (from alpha-demo.krownthemes.com/portfolio/lapka/)
+15:19:08	Warning: 	Moved Permanently for alpha-demo.krownthemes.com/?p=5
+15:19:08	Warning: 	File has moved from alpha-demo.krownthemes.com/?p=5 to http://alpha-demo.krownthemes.com/portfolio/lapka/
+15:19:08	Warning: 	Retry after error -4 (Incorrect length (265961 Bytes, 326683 expected)) at link 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/uploads/2015/11/p1_2.jpg (from alpha-demo.krownthemes.com/portfolio/lapka/)
+15:19:08	Error: 	"Not Found" (404) at link alpha-demo.krownthemes.com/portfolio/koncept/feed/ (from alpha-demo.krownthemes.com/portfolio/koncept/)
+15:19:08	Warning: 	Moved Permanently for alpha-demo.krownthemes.com/?p=105
+15:19:08	Warning: 	File has moved from alpha-demo.krownthemes.com/?p=105 to http://alpha-demo.krownthemes.com/portfolio/koncept/
+15:19:08	Warning: 	Retry after error -4 (Incorrect length (65222 Bytes, 79788 expected)) at link 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/uploads/2015/11/p2_1-1920x651.jpg (from alpha-demo.krownthemes.com/portfolio/koncept/)
+15:19:09	Error: 	"Not Found" (404) at link alpha-demo.krownthemes.com/portfolio/backer/feed/ (from alpha-demo.krownthemes.com/portfolio/backer/)
+15:19:09	Warning: 	Moved Permanently for alpha-demo.krownthemes.com/?p=267
+15:19:09	Warning: 	File has moved from alpha-demo.krownthemes.com/?p=267 to http://alpha-demo.krownthemes.com/portfolio/backer/
+15:19:09	Warning: 	Retry after error -4 (Incorrect length (725912 Bytes, 795989 expected)) at link 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/uploads/2015/09/c.png (from alpha-demo.krownthemes.com/portfolio/backer/)
+15:19:11	Warning: 	Retry after error -4 (Incorrect length (69298 Bytes, 110489 expected)) at link 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/uploads/2015/09/4th-1920x917.jpg (from alpha-demo.krownthemes.com/portfolio/backer/)
+15:19:18	Error: 	"Not Found" (404) at link alpha-demo.krownthemes.com/portfolio/pencil/feed/ (from alpha-demo.krownthemes.com/portfolio/pencil/)
+15:19:18	Warning: 	Moved Permanently for alpha-demo.krownthemes.com/?p=122
+15:19:18	Warning: 	File has moved from alpha-demo.krownthemes.com/?p=122 to http://alpha-demo.krownthemes.com/portfolio/pencil/
+15:19:18	Error: 	"Not Found" (404) at link alpha-demo.krownthemes.com/Version/ (from 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/themes/alpha/js/compressed/plugins-min.js)
+15:19:18	Error: 	"Not Found" (404) at link alpha-demo.krownthemes.com/TweenLite.js (from 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/themes/alpha/js/compressed/plugins-min.js)
+15:19:18	Warning: 	Moved Permanently for alpha-demo.krownthemes.com/?p=178
+15:19:18	Warning: 	File has moved from alpha-demo.krownthemes.com/?p=178 to http://alpha-demo.krownthemes.com/news/this-is-the-first-awesome-post/
+15:19:18	Warning: 	Moved Permanently for alpha-demo.krownthemes.com/?p=190
+15:19:18	Warning: 	File has moved from alpha-demo.krownthemes.com/?p=190 to http://alpha-demo.krownthemes.com/small-talk/this-is-the-first-awesome-post-3/
+15:19:18	Warning: 	Moved Permanently for alpha-demo.krownthemes.com/?p=189
+15:19:18	Warning: 	File has moved from alpha-demo.krownthemes.com/?p=189 to http://alpha-demo.krownthemes.com/tips-tricks/this-is-the-first-awesome-post-4/
+15:19:18	Warning: 	Moved Permanently for alpha-demo.krownthemes.com/?p=193
+15:19:18	Warning: 	File has moved from alpha-demo.krownthemes.com/?p=193 to http://alpha-demo.krownthemes.com/tips-tricks/this-is-the-first-awesome-post-5/
+15:19:21	Warning: 	Moved Permanently for alpha-demo.krownthemes.com/?p=206
+15:19:21	Warning: 	File has moved from alpha-demo.krownthemes.com/?p=206 to http://alpha-demo.krownthemes.com/small-talk/this-is-the-first-awesome-post-6-3/
+15:19:26	Error: 	"Not Found" (404) at link alpha-demo.krownthemes.com/journal/page/3/ (from alpha-demo.krownthemes.com/journal/page/2/)
+15:19:26	Warning: 	Retry after error -4 (No data (connection closed)) at link 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/uploads/2015/11/alif51-426x426.jpg (from alpha-demo.krownthemes.com/elements/)
+15:19:27	Warning: 	Retry after error -4 (No data (connection closed)) at link 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/uploads/2015/11/alif21.jpg (from alpha-demo.krownthemes.com/elements/)
+15:19:34	Warning: 	Retry after error -4 (Incorrect length (266072 Bytes, 464401 expected)) at link 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/uploads/2015/11/alif12.jpg (from alpha-demo.krownthemes.com/elements/)
+15:19:34	Warning: 	Moved Permanently for alpha-demo.krownthemes.com/?p=944
+15:19:34	Warning: 	File has moved from alpha-demo.krownthemes.com/?p=944 to http://alpha-demo.krownthemes.com/product/woo-single-2/
+15:19:37	Warning: 	Retry after error -4 (Incorrect length (124000 Bytes, 314949 expected)) at link 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/uploads/2016/05/1.jpg (from alpha-demo.krownthemes.com/product/woo-single-2/)
+15:20:06	Warning: 	Moved Permanently for alpha-demo.krownthemes.com/?p=943
+15:20:06	Warning: 	File has moved from alpha-demo.krownthemes.com/?p=943 to http://alpha-demo.krownthemes.com/product/woo-album-4/
+15:20:24	Warning: 	Retry after error -4 (Incorrect length (200456 Bytes, 251288 expected)) at link 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/uploads/2016/05/2.jpg (from alpha-demo.krownthemes.com/product/woo-album-4/)
+15:20:24	Warning: 	Moved Permanently for alpha-demo.krownthemes.com/?p=942
+15:20:24	Warning: 	File has moved from alpha-demo.krownthemes.com/?p=942 to http://alpha-demo.krownthemes.com/product/woo-single-1/
+15:20:24	Warning: 	Retry after error -4 (Incorrect length (68609 Bytes, 127720 expected)) at link 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/uploads/2016/05/3.jpg (from alpha-demo.krownthemes.com/product/woo-single-1/)
+15:20:31	Warning: 	Retry after error -4 (Incorrect length (397309 Bytes, 469279 expected)) at link 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/uploads/2016/05/3-1.jpg (from alpha-demo.krownthemes.com/product/woo-single-1/)
+15:20:33	Warning: 	Retry after error -4 (Incorrect length (463797 Bytes, 518007 expected)) at link 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/uploads/2016/05/3-2.jpg (from alpha-demo.krownthemes.com/product/woo-single-1/)
+15:20:41	Warning: 	Moved Permanently for alpha-demo.krownthemes.com/?p=940
+15:20:41	Warning: 	File has moved from alpha-demo.krownthemes.com/?p=940 to http://alpha-demo.krownthemes.com/product/woo-album-2/
+15:20:42	Warning: 	Moved Permanently for alpha-demo.krownthemes.com/?p=941
+15:20:42	Warning: 	File has moved from alpha-demo.krownthemes.com/?p=941 to http://alpha-demo.krownthemes.com/product/woo-album-3/
+15:20:42	Warning: 	Retry after error -4 (Incorrect length (264260 Bytes, 318727 expected)) at link 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/uploads/2016/05/5.jpg (from alpha-demo.krownthemes.com/product/woo-album-3/)
+15:20:42	Warning: 	Moved Permanently for alpha-demo.krownthemes.com/?p=939
+15:20:42	Warning: 	File has moved from alpha-demo.krownthemes.com/?p=939 to http://alpha-demo.krownthemes.com/product/woo-album-1/
+15:20:49	Warning: 	Moved Permanently for alpha-demo.krownthemes.com/?p=938
+15:20:49	Warning: 	File has moved from alpha-demo.krownthemes.com/?p=938 to http://alpha-demo.krownthemes.com/product/woo-logo-3/
+15:20:51	Warning: 	Moved Permanently for alpha-demo.krownthemes.com/?p=933
+15:20:51	Warning: 	File has moved from alpha-demo.krownthemes.com/?p=933 to http://alpha-demo.krownthemes.com/product/woo-ninja-3/
+15:20:51	Warning: 	Moved Permanently for alpha-demo.krownthemes.com/?p=932
+15:20:51	Warning: 	File has moved from alpha-demo.krownthemes.com/?p=932 to http://alpha-demo.krownthemes.com/product/premium-quality-2/
+15:20:51	Warning: 	Retry after error -4 (Incorrect length (250757 Bytes, 808046 expected)) at link 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/uploads/2017/04/stainless-desktop-2x-4165488096.png (from alpha-demo.krownthemes.com/product/premium-quality-2/)
+15:20:53	Warning: 	Retry after error -4 (Incorrect length (197186 Bytes, 587696 expected)) at link 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/uploads/2017/04/white-desktop-2x-1569122392.png (from alpha-demo.krownthemes.com/product/premium-quality-2/)
+15:20:56	Warning: 	Moved Permanently for alpha-demo.krownthemes.com/?p=930
+15:20:56	Warning: 	File has moved from alpha-demo.krownthemes.com/?p=930 to http://alpha-demo.krownthemes.com/product/ship-your-idea-3/
+15:20:56	Warning: 	Retry after error -4 (Incorrect length (269533 Bytes, 341683 expected)) at link 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/uploads/2016/05/9.jpg (from alpha-demo.krownthemes.com/product/ship-your-idea-3/)
+15:20:56	Warning: 	Moved Permanently for alpha-demo.krownthemes.com/?p=929
+15:20:56	Warning: 	File has moved from alpha-demo.krownthemes.com/?p=929 to http://alpha-demo.krownthemes.com/product/woo-logo-2/
+15:21:07	Warning: 	Retry after error -4 (Incorrect length (122619 Bytes, 180043 expected)) at link 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/uploads/2016/05/11.jpg (from alpha-demo.krownthemes.com/product/woo-logo-2/)
+15:21:15	Warning: 	Moved Permanently for alpha-demo.krownthemes.com/?p=928
+15:21:15	Warning: 	File has moved from alpha-demo.krownthemes.com/?p=928 to http://alpha-demo.krownthemes.com/product/ninja-silhouette-2/
+15:21:15	Warning: 	Retry after error -4 (Incorrect length (332260 Bytes, 404539 expected)) at link 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/uploads/2016/05/12.jpg (from alpha-demo.krownthemes.com/product/ninja-silhouette-2/)
+15:21:16	Error: 	"Not Found" (404) at link alpha-demo.krownthemes.com/portfolio/lapka-2/feed/ (from alpha-demo.krownthemes.com/portfolio/lapka-2/)
+15:21:25	Warning: 	Moved Permanently for alpha-demo.krownthemes.com/?p=950
+15:21:25	Warning: 	File has moved from alpha-demo.krownthemes.com/?p=950 to http://alpha-demo.krownthemes.com/portfolio/lapka-2/
+15:21:25	Warning: 	Moved Permanently for alpha-demo.krownthemes.com/?p=205
+15:21:25	Warning: 	File has moved from alpha-demo.krownthemes.com/?p=205 to http://alpha-demo.krownthemes.com/news/this-is-the-first-awesome-post-6-2/
+15:21:25	Warning: 	Retry after error -4 (No data (connection closed)) at link 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.22.0 (from alpha-demo.krownthemes.com/news/this-is-the-first-awesome-post-6-2/)
+15:21:27	Warning: 	Moved Permanently for alpha-demo.krownthemes.com/?p=204
+15:21:27	Warning: 	File has moved from alpha-demo.krownthemes.com/?p=204 to http://alpha-demo.krownthemes.com/news/this-is-the-first-awesome-post-4-2/
+15:21:27	Error: 	"No data (connection closed)" (-4) after 2 retries at link 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/uploads/2015/11/alif12.jpg (from alpha-demo.krownthemes.com/elements/)
+15:21:27	Warning: 	Retry after error -4 (Incorrect length (255829 Bytes, 314949 expected)) at link 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/uploads/2016/05/1.jpg (from alpha-demo.krownthemes.com/product/woo-single-2/)
+15:21:28	Warning: 	Moved Permanently for alpha-demo.krownthemes.com/?p=358
+15:21:28	Warning: 	File has moved from alpha-demo.krownthemes.com/?p=358 to http://alpha-demo.krownthemes.com/cart/
+15:21:28	Warning: 	Found for alpha-demo.krownthemes.com/cart/?remove_item=64223ccf70bbb65a3a4aceac37e21016&_wpnonce=f66076b698
+15:21:28	Warning: 	File has moved from alpha-demo.krownthemes.com/cart/?remove_item=64223ccf70bbb65a3a4aceac37e21016&_wpnonce=f66076b698 to http://alpha-demo.krownthemes.com/cart/?removed_item=1
+15:21:28	Warning: 	Found for alpha-demo.krownthemes.com/cart/?remove_item=2f885d0fbe2e131bfc9d98363e55d1d4&_wpnonce=f66076b698
+15:21:28	Warning: 	File has moved from alpha-demo.krownthemes.com/cart/?remove_item=2f885d0fbe2e131bfc9d98363e55d1d4&_wpnonce=f66076b698 to http://alpha-demo.krownthemes.com/cart/?removed_item=1
+15:21:28	Warning: 	Found for alpha-demo.krownthemes.com/cart/?remove_item=b55ec28c52d5f6205684a473a2193564&_wpnonce=f66076b698
+15:21:28	Warning: 	File has moved from alpha-demo.krownthemes.com/cart/?remove_item=b55ec28c52d5f6205684a473a2193564&_wpnonce=f66076b698 to http://alpha-demo.krownthemes.com/cart/?removed_item=1
+15:21:28	Warning: 	Found for alpha-demo.krownthemes.com/cart/?remove_item=8d6dc35e506fc23349dd10ee68dabb64&_wpnonce=f66076b698
+15:21:28	Warning: 	File has moved from alpha-demo.krownthemes.com/cart/?remove_item=8d6dc35e506fc23349dd10ee68dabb64&_wpnonce=f66076b698 to http://alpha-demo.krownthemes.com/cart/?removed_item=1
+15:21:28	Warning: 	Found for alpha-demo.krownthemes.com/cart/?remove_item=92262bf907af914b95a0fc33c3f33bf6&_wpnonce=f66076b698
+15:21:28	Warning: 	File has moved from alpha-demo.krownthemes.com/cart/?remove_item=92262bf907af914b95a0fc33c3f33bf6&_wpnonce=f66076b698 to http://alpha-demo.krownthemes.com/cart/?removed_item=1
+15:21:28	Warning: 	Found for alpha-demo.krownthemes.com/cart/?remove_item=3df1d4b96d8976ff5986393e8767f5b2&_wpnonce=f66076b698
+15:21:28	Warning: 	File has moved from alpha-demo.krownthemes.com/cart/?remove_item=3df1d4b96d8976ff5986393e8767f5b2&_wpnonce=f66076b698 to http://alpha-demo.krownthemes.com/cart/?removed_item=1
+15:21:28	Warning: 	Found for alpha-demo.krownthemes.com/cart/?remove_item=74bba22728b6185eec06286af6bec36d&_wpnonce=f66076b698
+15:21:28	Warning: 	File has moved from alpha-demo.krownthemes.com/cart/?remove_item=74bba22728b6185eec06286af6bec36d&_wpnonce=f66076b698 to http://alpha-demo.krownthemes.com/cart/?removed_item=1
+15:21:28	Warning: 	Found for alpha-demo.krownthemes.com/cart/?remove_item=043c3d7e489c69b48737cc0c92d0f3a2&_wpnonce=f66076b698
+15:21:28	Warning: 	File has moved from alpha-demo.krownthemes.com/cart/?remove_item=043c3d7e489c69b48737cc0c92d0f3a2&_wpnonce=f66076b698 to http://alpha-demo.krownthemes.com/cart/?removed_item=1
+15:21:28	Warning: 	Found for alpha-demo.krownthemes.com/cart/?remove_item=1cc3633c579a90cfdd895e64021e2163&_wpnonce=f66076b698
+15:21:28	Warning: 	File has moved from alpha-demo.krownthemes.com/cart/?remove_item=1cc3633c579a90cfdd895e64021e2163&_wpnonce=f66076b698 to http://alpha-demo.krownthemes.com/cart/?removed_item=1
+15:21:28	Warning: 	Found for alpha-demo.krownthemes.com/cart/?remove_item=0d0871f0806eae32d30983b62252da50&_wpnonce=f66076b698
+15:21:28	Warning: 	File has moved from alpha-demo.krownthemes.com/cart/?remove_item=0d0871f0806eae32d30983b62252da50&_wpnonce=f66076b698 to http://alpha-demo.krownthemes.com/cart/?removed_item=1
+15:21:28	Warning: 	Found for alpha-demo.krownthemes.com/cart/?remove_item=d045c59a90d7587d8d671b5f5aec4e7c&_wpnonce=f66076b698
+15:21:28	Warning: 	File has moved from alpha-demo.krownthemes.com/cart/?remove_item=d045c59a90d7587d8d671b5f5aec4e7c&_wpnonce=f66076b698 to http://alpha-demo.krownthemes.com/cart/?removed_item=1
+15:21:43	Warning: 	Retry after error -4 (No data (connection closed)) at link 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/uploads/2016/05/5.jpg (from alpha-demo.krownthemes.com/product/woo-album-3/)
+15:21:44	Warning: 	Retry after error -4 (Incorrect length (582359 Bytes, 808046 expected)) at link 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/uploads/2017/04/stainless-desktop-2x-4165488096.png (from alpha-demo.krownthemes.com/product/premium-quality-2/)
+15:21:47	Warning: 	Retry after error -4 (No data (connection closed)) at link 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/uploads/2016/05/11.jpg (from alpha-demo.krownthemes.com/product/woo-logo-2/)
+15:21:48	Error: 	"Not Found" (404) at link alpha-demo.krownthemes.com/portfolio/activite-watch/feed/ (from alpha-demo.krownthemes.com/portfolio/activite-watch/)
+15:21:48	Warning: 	Moved Permanently for alpha-demo.krownthemes.com/?p=945
+15:21:48	Warning: 	File has moved from alpha-demo.krownthemes.com/?p=945 to http://alpha-demo.krownthemes.com/portfolio/activite-watch/
+15:21:49	Error: 	"No data (connection closed)" (-4) after 2 retries at link 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-content/uploads/2016/05/1.jpg (from alpha-demo.krownthemes.com/product/woo-single-2/)
+15:21:49	Warning: 	Moved Permanently for alpha-demo.krownthemes.com/?p=359
+15:21:49	Warning: 	File has moved from alpha-demo.krownthemes.com/?p=359 to http://alpha-demo.krownthemes.com/checkout/
+15:21:49	Warning: 	Found for alpha-demo.krownthemes.com/cart/?undo_item=64223ccf70bbb65a3a4aceac37e21016&_wpnonce=f66076b698
+15:21:49	Warning: 	File has moved from alpha-demo.krownthemes.com/cart/?undo_item=64223ccf70bbb65a3a4aceac37e21016&_wpnonce=f66076b698 to http://alpha-demo.krownthemes.com/checkout/
+15:21:49	Warning: 	Found for alpha-demo.krownthemes.com/cart/?undo_item=2f885d0fbe2e131bfc9d98363e55d1d4&_wpnonce=f66076b698
+15:21:49	Warning: 	File has moved from alpha-demo.krownthemes.com/cart/?undo_item=2f885d0fbe2e131bfc9d98363e55d1d4&_wpnonce=f66076b698 to http://alpha-demo.krownthemes.com/checkout/
+15:21:49	Warning: 	Found for alpha-demo.krownthemes.com/cart/?undo_item=b55ec28c52d5f6205684a473a2193564&_wpnonce=f66076b698
+15:21:49	Warning: 	File has moved from alpha-demo.krownthemes.com/cart/?undo_item=b55ec28c52d5f6205684a473a2193564&_wpnonce=f66076b698 to http://alpha-demo.krownthemes.com/checkout/
+15:21:49	Warning: 	Found for alpha-demo.krownthemes.com/cart/?undo_item=8d6dc35e506fc23349dd10ee68dabb64&_wpnonce=f66076b698
+15:21:49	Warning: 	File has moved from alpha-demo.krownthemes.com/cart/?undo_item=8d6dc35e506fc23349dd10ee68dabb64&_wpnonce=f66076b698 to http://alpha-demo.krownthemes.com/checkout/
+15:21:49	Warning: 	Found for alpha-demo.krownthemes.com/cart/?undo_item=92262bf907af914b95a0fc33c3f33bf6&_wpnonce=f66076b698
+15:21:49	Warning: 	File has moved from alpha-demo.krownthemes.com/cart/?undo_item=92262bf907af914b95a0fc33c3f33bf6&_wpnonce=f66076b698 to http://alpha-demo.krownthemes.com/checkout/
+15:21:49	Warning: 	Found for alpha-demo.krownthemes.com/cart/?undo_item=3df1d4b96d8976ff5986393e8767f5b2&_wpnonce=f66076b698
+15:21:49	Warning: 	File has moved from alpha-demo.krownthemes.com/cart/?undo_item=3df1d4b96d8976ff5986393e8767f5b2&_wpnonce=f66076b698 to http://alpha-demo.krownthemes.com/checkout/
+15:21:49	Warning: 	Found for alpha-demo.krownthemes.com/cart/?undo_item=74bba22728b6185eec06286af6bec36d&_wpnonce=f66076b698
+15:21:49	Warning: 	File has moved from alpha-demo.krownthemes.com/cart/?undo_item=74bba22728b6185eec06286af6bec36d&_wpnonce=f66076b698 to http://alpha-demo.krownthemes.com/checkout/
+15:21:49	Warning: 	Found for alpha-demo.krownthemes.com/cart/?undo_item=043c3d7e489c69b48737cc0c92d0f3a2&_wpnonce=f66076b698
+15:21:49	Warning: 	File has moved from alpha-demo.krownthemes.com/cart/?undo_item=043c3d7e489c69b48737cc0c92d0f3a2&_wpnonce=f66076b698 to http://alpha-demo.krownthemes.com/checkout/
+15:21:49	Warning: 	Found for alpha-demo.krownthemes.com/cart/?undo_item=0d0871f0806eae32d30983b62252da50&_wpnonce=f66076b698
+15:21:49	Warning: 	File has moved from alpha-demo.krownthemes.com/cart/?undo_item=0d0871f0806eae32d30983b62252da50&_wpnonce=f66076b698 to http://alpha-demo.krownthemes.com/checkout/
+15:21:49	Warning: 	Found for alpha-demo.krownthemes.com/cart/?undo_item=d045c59a90d7587d8d671b5f5aec4e7c&_wpnonce=f66076b698
+15:21:49	Warning: 	File has moved from alpha-demo.krownthemes.com/cart/?undo_item=d045c59a90d7587d8d671b5f5aec4e7c&_wpnonce=f66076b698 to http://alpha-demo.krownthemes.com/checkout/
+15:22:01	Error: 	"Not Found" (404) at link alpha-demo.krownthemes.com/news/this-is-the-first-awesome-post-6-2/mediaelement.min.js (from 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.22.0)
+15:22:01	Error: 	"Not Found" (404) at link alpha-demo.krownthemes.com/news/this-is-the-first-awesome-post-6-2/mediaelement-and-player.js (from 13mkui1abjdq4faknquoneh9.wpengine.netdna-cdn.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.22.0)
+15:22:01	Warning: 	Moved Permanently for alpha-demo.krownthemes.com/?p=360
+15:22:01	Warning: 	File has moved from alpha-demo.krownthemes.com/?p=360 to http://alpha-demo.krownthemes.com/my-account/
+
+HTTrack Website Copier/3.49-2 mirror complete in 23 minutes 29 seconds : 603 links scanned, 491 files written (33946259 bytes overall) [35014093 bytes received at 24850 bytes/sec], 1.0 requests per connection
+(23 errors, 145 warnings, 0 messages)
